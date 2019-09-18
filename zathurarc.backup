@@ -1,0 +1,17 @@
+map [normal]     <F11> toggle_fullscreen
+map [fullscreen] <F11> toggle_fullscreen
+map [normal]     <C-l> reload
+map [fullscreen] <C-l> reload
+
+map [normal]     n scroll down
+map [fullscreen] n scroll down
+map [normal]     <C-n> scroll down
+map [fullscreen] <C-n> scroll down
+map [normal]     e scroll up
+map [fullscreen] e scroll up
+map [normal]     <C-e> scroll up
+map [fullscreen] <C-e> scroll up
+map [normal] <S-n> zoom out
+map [fullscreen] <S-n> zoom out
+map [normal] <S-e> zoom in
+map [fullscreen] <S-e> zoom in
